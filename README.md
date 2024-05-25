@@ -1,4 +1,4 @@
-## NOTE: DOCUMENTATION & SOME SCRIPTS ARE UNDER DEVELOPMENT
+## NOTE: SOME SCRIPTS ARE UNDER DEVELOPMENT
 
 # Contents
  - [Pipeline for generating contact matrix from FASTQ files using HiC-Pro](#Pipeline-for-generating-contact-matrix-from-FASTQ-files-using-HiC-Pro) 
