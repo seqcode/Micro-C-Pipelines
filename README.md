@@ -1,4 +1,4 @@
-# [DOCUMENTATION & SOME SCRIPTS ARE UNDER DEVELOPMENT]
+## NOTE: DOCUMENTATION & SOME SCRIPTS ARE UNDER DEVELOPMENT
 
 # Contents
  - [Pipeline for generating contact matrix from FASTQ files using HiC-Pro](#Pipeline-for-generating-contact-matrix-from-FASTQ-files-using-HiC-Pro) 
@@ -6,8 +6,6 @@
  - [Pipeline for calling TADs](#Pipeline-for-calling-TADs)
  - [Loops and Their Pile-up Analysis Pipeline](#Loops-and-Their-Pile-up-Analysis-Pipeline)
 
-
-<br>
 <br>
 
 # Pipeline for generating contact matrix from FASTQ files using HiC-Pro
